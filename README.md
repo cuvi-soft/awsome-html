@@ -3,7 +3,7 @@ Complete List of HTML Tags
 ==========================
 
 
-**[<!DOCTYPE html>](/html-document-type-doctype-declaration)** Basically tells the browser what kind of document we're loading, in this case good 'ol HTML. This guy likes to be the first element in the document, even before the opening `<html>` tag. This page, for example, starts things off with `<!DOCTYPE html>`
+**[<!DOCTYPE html>](/html-document-type-doctype-declaration)** `<!DOCTYPE html>` Basically tells the browser what kind of document we're loading, in this case good 'ol HTML. This guy likes to be the first element in the document, even before the opening `<html>` tag. This page, for example, starts things off with
 
 **`<a>`** a for anchor, also known as a hyperlink, or simply a link. To make an actual link using the <a> tag, use the href attribute: 
 
